@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActividadLayouts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_frame_layout">ViewGrouping</string>
+    <string name="title_activity_relative_layout">ViewGrouping</string>
+    <string name="title_activity_linear_vertical_layout">ViewGrouping</string>
+    <string name="title_activity_scroll_view_layout">ViewGrouping</string>
+    <string name="title_activity_table_layout">ViewGrouping</string>
+    <string name="title_activity_grid_layout">ViewGrouping</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="print_pictures">Print Pictures</string>
+    <string name="nombre">Nombre</string>
+    <string name="introduce_apellidos">Introduce tus apellidos</string>
+    <string name="introduce_nombre">Introduce tu nombre</string>
+    <string name="go">Go!</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="button">Button</string>
+
+</resources>
