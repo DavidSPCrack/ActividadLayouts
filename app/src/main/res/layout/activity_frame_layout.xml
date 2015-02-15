@@ -14,7 +14,6 @@
         android:layout_height="195dp"
         android:layout_gravity="start|top"
         android:contentDescription="@string/placeholder"
-        android:src="@drawable/ic_action_picture"
-        android:tint="@android:color/holo_red_dark" />
+        android:src="@drawable/ic_action_picture" />
 
 </FrameLayout>

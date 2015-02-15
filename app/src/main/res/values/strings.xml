@@ -18,5 +18,9 @@
     <string name="go">Go!</string>
     <string name="radiobutton">RadioButton</string>
     <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="ancho_padre">Boton de ancho el padre</string>
+    <string name="texto_tres_columnas">texto que se extiende exactamente a lo ancho de 3 columnas</string>
+    <string name="large_one">the large one</string>
 
 </resources>
